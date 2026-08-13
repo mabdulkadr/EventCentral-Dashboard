@@ -1,15 +1,15 @@
 # 📊 EventCentral — Multi-Device Event Monitor
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
-![GUI](https://img.shields.io/badge/UI-Web%20Dashboard-purple.svg)
+![Dashboard](https://img.shields.io/badge/Dashboard-Web-lightgrey.svg)
+![UI](https://img.shields.io/badge/UI-Interactive%20GUI-purple.svg)
 ![Version](https://img.shields.io/badge/version-1.0-green.svg)
 
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-☕-FFDD00?style=for-the-badge)](https://www.buymeacoffee.com/mabdulkadrx)
 
 
-A **multi-device Windows Event Log monitoring platform** that collects events from your PC and remote servers (WinRM), discovers **all** event logs, and displays them in an interactive browser dashboard. Events accumulate forever — every scan merges new events into the archive without deleting old data.
+A **multi-device Windows Event Log monitoring dashboard** that collects events from your PC and remote servers (WinRM), discovers **all** event logs, and displays them in an interactive browser dashboard. Events accumulate forever — every scan merges new events into the archive without deleting old data.
 
 > ✅ No agents &nbsp;·&nbsp; ✅ No databases &nbsp;·&nbsp; ✅ No dependencies &nbsp;·&nbsp; 🔒 Your data stays on your machine
 
